@@ -1,0 +1,1 @@
+practice with sequelize-cli
